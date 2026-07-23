@@ -4,26 +4,122 @@
 
 ---
 
-WAIC昆仑万维发Matrix-Game 3.5（5B参数单卡720p@20FPS、Patch级记忆注入）+Mureka v9.5音乐模型（情感分7.88）。 世界模型选游戏/机器人仿真切口，避医疗法律合规雷；单卡720p意味端侧机房可玩不绑万卡。昆仑喊"2026世界模型元年"，打多模态中台（文本/音乐/视频/仿真）但需防各线都浅。Matrix-Game给机器人仿真提供国产替代，配合上海物理智能研究院做sim2real。
+相关资源清单(每日更新)
 
----
+**【资源简介】**
+WAIC昆仑万维发Matrix-Game 3.5（5B参数单卡720p@20FPS、Patch级记忆注入、1200游戏场景管线）+Mureka v9.5（情感分7.88）。 方汉喊"2026世界模型元年"，Matrix-Game选游戏/机器人仿真切口避医疗法律合规雷，单卡720p意味端侧机房可玩不绑万卡。昆仑打多模态中台（文本/音乐/视频/仿真）但需防各线都浅。世界模型热从Dreamer/Genie卷到国产，昆仑给机器人仿真提供国产替代配合上海物理智能研究院做sim2real。
 
-[戏法门](https://soft2.kittyyw.com/index/703.html) | [极限逃生冒险](https://soft2.kittyyw.com/index/704.html) | [勇者之塔最新版本](https://soft2.kittyyw.com/index/705.html) | [樵夫休闲触摸](https://soft2.kittyyw.com/index/706.html) | [西蒙超级兔](https://soft2.kittyyw.com/index/707.html) | [花木兰的那些事\(The story of Mulan\)](https://soft2.kittyyw.com/index/708.html) | [舞动长发](https://soft2.kittyyw.com/index/709.html) | [海上方舟中文版](https://soft2.kittyyw.com/index/710.html) | [王者守卫](https://soft2.kittyyw.com/index/711.html) | [火柴人沙雕格斗](https://soft2.kittyyw.com/index/712.html) | [滚动的多米诺](https://soft2.kittyyw.com/index/713.html) | [女神降临](https://soft2.kittyyw.com/index/714.html) | [密室逃脱绝境系列11游乐园](https://soft2.kittyyw.com/index/715.html) | [规则怪谈疯狂爆梗王](https://soft2.kittyyw.com/index/716.html) | [飞越13号房](https://soft2.kittyyw.com/index/717.html) | [blue archive国际服](https://soft2.kittyyw.com/index/718.html) | [兔兔岛](https://soft2.kittyyw.com/index/719.html) | [rhythm hive](https://soft2.kittyyw.com/index/720.html) | [假面骑士哥查德腰带模拟器](https://soft2.kittyyw.com/index/721.html) | [坑爹的火柴人](https://soft2.kittyyw.com/index/722.html) | [仙女的衣柜](https://soft2.kittyyw.com/index/723.html) | [水晶沙漠](https://soft2.kittyyw.com/index/724.html) | [莫奇的梦境](https://soft2.kittyyw.com/index/725.html) | [牵引无人机](https://soft2.kittyyw.com/index/726.html) | [解压元宇宙世界](https://soft2.kittyyw.com/index/727.html) | [亡灵杀手2中文版](https://soft2.kittyyw.com/index/728.html) | [SuperSus](https://soft2.kittyyw.com/index/729.html) | [阿凡达重返潘多拉](https://soft2.kittyyw.com/index/730.html) | [恐怖奶奶1.5](https://soft2.kittyyw.com/index/731.html) | [元素弓箭手魔术弓](https://soft2.kittyyw.com/index/732.html) | [流放末路](https://soft2.kittyyw.com/index/733.html) | [点击怪物](https://soft2.kittyyw.com/index/734.html) | [小小总裁大人](https://soft2.kittyyw.com/index/735.html) | [三丽鸥奇迹之赛](https://soft2.kittyyw.com/index/736.html) | [冲鸭原始人](https://soft2.kittyyw.com/index/737.html) | [边境巡查官](https://soft2.kittyyw.com/index/738.html) | [火柴人大战拯救你的城市](https://soft2.kittyyw.com/index/739.html) | [绝望地下城\(Dungeon of Despair\)](https://soft2.kittyyw.com/index/740.html) | [宝宝儿童学院](https://soft2.kittyyw.com/index/741.html) | [史诗之心](https://soft2.kittyyw.com/index/742.html) | [乱斗英雄手机版](https://soft2.kittyyw.com/index/743.html) | [节奏盒子毕加索风格模组](https://soft2.kittyyw.com/index/744.html) | [动物与美味食物](https://soft2.kittyyw.com/index/745.html) | [色彩冲刺粉碎节奏](https://soft2.kittyyw.com/index/746.html) | [海盗王黑帆](https://soft2.kittyyw.com/index/747.html) | [我们拼了](https://soft2.kittyyw.com/index/748.html) | [会说话的恐龙霸王龙](https://soft2.kittyyw.com/index/749.html) | [甜瓜乐园最新版本20.0](https://soft2.kittyyw.com/index/750.html) | [机甲斗兽场内置FF修改器](https://soft2.kittyyw.com/index/751.html) | [bounce蹦球历险记](https://soft2.kittyyw.com/index/752.html) | [跳跃吧兔子人](https://soft2.kittyyw.com/index/753.html) | [战斗圆盘大作战](https://soft2.kittyyw.com/index/754.html) | [侦探推理训练手册](https://soft2.kittyyw.com/index/755.html) | [室内清洁设计模拟器](https://soft2.kittyyw.com/index/756.html) | [保卫萝卜单机版](https://soft2.kittyyw.com/index/757.html) | [笔墨西游](https://soft2.kittyyw.com/index/758.html) | [天才跑酷少年](https://soft2.kittyyw.com/index/759.html) | [趣味大战模拟器](https://soft2.kittyyw.com/index/760.html) | [小老弟冲鸭](https://soft2.kittyyw.com/index/761.html) | [警察陆军模拟器](https://soft2.kittyyw.com/index/762.html) | [火柴人都市生存](https://soft2.kittyyw.com/index/763.html) | [房里有鬼床下有人](https://soft2.kittyyw.com/index/764.html) | [击鼓大师](https://soft2.kittyyw.com/index/765.html) | [七月围城](https://soft2.kittyyw.com/index/766.html) | [搬运模拟器](https://soft2.kittyyw.com/index/767.html) | [恐怖爷爷无敌版](https://soft2.kittyyw.com/index/768.html) | [波古波古](https://soft2.kittyyw.com/index/769.html) | [高中巴士模拟器](https://soft2.kittyyw.com/index/770.html) | [恐怖猛鬼密室](https://soft2.kittyyw.com/index/771.html) | [情棺2逢山见喜](https://soft2.kittyyw.com/index/772.html) | [模拟离婚协议判决](https://soft2.kittyyw.com/index/773.html) | [公路司机](https://soft2.kittyyw.com/index/774.html) | [佣兵物语军团战略](https://soft2.kittyyw.com/index/775.html) | [龙与勇士](https://soft2.kittyyw.com/index/776.html) | [My Guns Factory](https://soft2.kittyyw.com/index/777.html) | [灵魂救星2](https://soft2.kittyyw.com/index/778.html) | [装扮造型师](https://soft2.kittyyw.com/index/779.html) | [哦沙威玛](https://soft2.kittyyw.com/index/780.html) | [快乐爆米花](https://soft2.kittyyw.com/index/781.html) | [迷你世界黑暗版](https://soft2.kittyyw.com/index/782.html) | [地下城与勇士70怀旧版](https://soft2.kittyyw.com/index/783.html) | [沙漠托皮亚2](https://soft2.kittyyw.com/index/784.html) | [魂斗罗归来体验服](https://soft2.kittyyw.com/index/785.html) | [迷你小司机](https://soft2.kittyyw.com/index/786.html) | [冲绳奴隶岛](https://soft2.kittyyw.com/index/787.html) | [模拟球球大作战](https://soft2.kittyyw.com/index/788.html) | [小恶魔探险模拟](https://soft2.kittyyw.com/index/789.html) | [掘金猎手](https://soft2.kittyyw.com/index/790.html) | [求生物语](https://soft2.kittyyw.com/index/791.html) | [弄死火柴人3](https://soft2.kittyyw.com/index/792.html) | [火柴人杀手战争](https://soft2.kittyyw.com/index/793.html) | [零域幻想](https://soft2.kittyyw.com/index/794.html) | [投掷宝剑大师](https://soft2.kittyyw.com/index/795.html) | [超级兔子人正版](https://soft2.kittyyw.com/index/796.html) | [玩具飞机飞行模拟器](https://soft2.kittyyw.com/index/797.html) | [彩虹怪兽卡牌对战](https://soft2.kittyyw.com/index/798.html) | [樱花校园逃离巨人](https://soft2.kittyyw.com/index/799.html) | [恶霸鲁尼](https://soft2.kittyyw.com/index/800.html) | [我不是猪头最新版](https://soft2.kittyyw.com/index/801.html) | [蜡笔小新跑酷中文版](https://soft2.kittyyw.com/index/802.html)
-
-来源依据：
-
-![](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)
+**资源1**：[兼职猫企业版](https://soft2.kittyyw.com/index/35516.html)<br>
+**资源2**：[飞鸭记账](https://soft2.kittyyw.com/index/35517.html)<br>
+**资源3**：[picopico社交软件\(恋爱交友软件\)安卓手机版](https://soft2.kittyyw.com/index/35518.html)<br>
+**资源4**：[4K循环播放器](https://soft2.kittyyw.com/index/35519.html)<br>
+**资源5**：[默往聊天软件免费版](https://soft2.kittyyw.com/index/35520.html)<br>
+**资源6**：[打卡小习惯](https://soft2.kittyyw.com/index/35521.html)<br>
+**资源7**：[小赢卡贷借款](https://soft2.kittyyw.com/index/35522.html)<br>
+**资源8**：[肥猫阅读](https://soft2.kittyyw.com/index/35523.html)<br>
+**资源9**：[中绩网校最新版](https://soft2.kittyyw.com/index/35524.html)<br>
+**资源10**：[日常小工具](https://soft2.kittyyw.com/index/35525.html)<br>
+**资源11**：[可可影视电视端](https://soft2.kittyyw.com/index/35526.html)<br>
+**资源12**：[现代战舰在线海战](https://soft2.kittyyw.com/index/35527.html)<br>
+**资源13**：[天选打工人免广告版](https://soft2.kittyyw.com/index/35528.html)<br>
+**资源14**：[模拟小镇生活](https://soft2.kittyyw.com/index/35529.html)<br>
+**资源15**：[咖啡园厨房天地](https://soft2.kittyyw.com/index/35530.html)<br>
+**资源16**：[永恒群星的星象仪正版](https://soft2.kittyyw.com/index/35531.html)<br>
+**资源17**：[新庄园时代测试版](https://soft2.kittyyw.com/index/35532.html)<br>
+**资源18**：[蚁群模拟器2手机版](https://soft2.kittyyw.com/index/35533.html)<br>
+**资源19**：[拉力赛车极限竞速安卓版](https://soft2.kittyyw.com/index/35534.html)<br>
+**资源20**：[僵尸炮艇生存](https://soft2.kittyyw.com/index/35535.html)<br>
+**资源21**：[地下城与公主2韩服](https://soft2.kittyyw.com/index/35536.html)<br>
+**资源22**：[创世战车版](https://soft2.kittyyw.com/index/35537.html)<br>
+**资源23**：[像素大逃杀安卓版](https://soft2.kittyyw.com/index/35538.html)<br>
+**资源24**：[无敌流浪汉中文版](https://soft2.kittyyw.com/index/35539.html)<br>
+**资源25**：[浮生梦山海](https://soft2.kittyyw.com/index/35540.html)<br>
+**资源26**：[方舟生存进化国际版](https://soft2.kittyyw.com/index/35541.html)<br>
+**资源27**：[僵尸国度\(ZombieState\)](https://soft2.kittyyw.com/index/35542.html)<br>
+**资源28**：[江湖风云录折相思版](https://soft2.kittyyw.com/index/35543.html)<br>
+**资源29**：[马里奥指导版](https://soft2.kittyyw.com/index/35544.html)<br>
+**资源30**：[复古指挥官mod版](https://soft2.kittyyw.com/index/35545.html)<br>
+**资源31**：[僵尸国度最新版](https://soft2.kittyyw.com/index/35546.html)<br>
+**资源32**：[弓箭传说2国际版](https://soft2.kittyyw.com/index/35547.html)<br>
+**资源33**：[多开分身永久免费版](https://soft2.kittyyw.com/index/35548.html)<br>
+**资源34**：[掘地求升历险记](https://soft2.kittyyw.com/index/35549.html)<br>
+**资源35**：[碧优蒂的世界](https://soft2.kittyyw.com/index/35550.html)<br>
+**资源36**：[奇妙梦幻城堡](https://soft2.kittyyw.com/index/35551.html)<br>
+**资源37**：[泰拉贝尔](https://soft2.kittyyw.com/index/35552.html)<br>
+**资源38**：[逗比人生年度版](https://soft2.kittyyw.com/index/35553.html)<br>
+**资源39**：[逗比人生模拟器](https://soft2.kittyyw.com/index/35554.html)<br>
+**资源40**：[怨憎会](https://soft2.kittyyw.com/index/35555.html)<br>
+**资源41**：[逃离森林多人联机](https://soft2.kittyyw.com/index/35556.html)<br>
+**资源42**：[银鸦之梦正版](https://soft2.kittyyw.com/index/35557.html)<br>
+**资源43**：[星战实验室](https://soft2.kittyyw.com/index/35558.html)<br>
+**资源44**：[超时空战士小游戏](https://soft2.kittyyw.com/index/35559.html)<br>
+**资源45**：[至尊决斗火柴人最新版](https://soft2.kittyyw.com/index/35560.html)<br>
+**资源46**：[晚安森林正版](https://soft2.kittyyw.com/index/35561.html)<br>
+**资源47**：[潮汐守望者塔防游戏](https://soft2.kittyyw.com/index/35562.html)<br>
+**资源48**：[wallpaper动态壁纸](https://soft2.kittyyw.com/index/35563.html)<br>
+**资源49**：[wallpaper engine手机版](https://soft2.kittyyw.com/index/35564.html)<br>
+**资源50**：[话本小说](https://soft2.kittyyw.com/index/35565.html)<br>
+**资源51**：[静读天下免费版](https://soft2.kittyyw.com/index/35566.html)<br>
+**资源52**：[橘子画质怪兽安卓版](https://soft2.kittyyw.com/index/35567.html)<br>
+**资源53**：[爱听书安卓版](https://soft2.kittyyw.com/index/35568.html)<br>
+**资源54**：[盐言故事\(知乎小说免费阅读\)](https://soft2.kittyyw.com/index/35569.html)<br>
+**资源55**：[快映剪辑](https://soft2.kittyyw.com/index/35570.html)<br>
+**资源56**：[小米运动\(ZeppLife\)](https://soft2.kittyyw.com/index/35571.html)<br>
+**资源57**：[主题库永久VIP最新版](https://soft2.kittyyw.com/index/35572.html)<br>
+**资源58**：[Threads](https://soft2.kittyyw.com/index/35573.html)<br>
+**资源59**：[奇影视频安装包](https://soft2.kittyyw.com/index/35574.html)<br>
+**资源60**：[横风动漫2026最新版](https://soft2.kittyyw.com/index/35575.html)<br>
+**资源61**：[搜剧影院](https://soft2.kittyyw.com/index/35576.html)<br>
+**资源62**：[PDFExtra安卓直装付费版](https://soft2.kittyyw.com/index/35577.html)<br>
+**资源63**：[heibai弹幕2026最新版](https://soft2.kittyyw.com/index/35578.html)<br>
+**资源64**：[绝区零抽卡模拟器手机版](https://soft2.kittyyw.com/index/35579.html)<br>
+**资源65**：[xiconchanger中文版](https://soft2.kittyyw.com/index/35580.html)<br>
+**资源66**：[兔子与餐厅安卓版](https://soft2.kittyyw.com/index/35581.html)<br>
+**资源67**：[9GAG搞笑段子专业版](https://soft2.kittyyw.com/index/35582.html)<br>
+**资源68**：[天天阅谱](https://soft2.kittyyw.com/index/35583.html)<br>
+**资源69**：[曙光英雄攻略站](https://soft2.kittyyw.com/index/35584.html)<br>
+**资源70**：[百度阅读apk](https://soft2.kittyyw.com/index/35585.html)<br>
+**资源71**：[天眼查企业查询](https://soft2.kittyyw.com/index/35586.html)<br>
+**资源72**：[樱花动漫](https://soft2.kittyyw.com/index/35587.html)<br>
+**资源73**：[小悟资源库](https://soft2.kittyyw.com/index/35588.html)<br>
+**资源74**：[手动挡停车场2中文版](https://soft2.kittyyw.com/index/35589.html)<br>
+**资源75**：[手动挡停车场2正版](https://soft2.kittyyw.com/index/35590.html)<br>
+**资源76**：[光影追剧](https://soft2.kittyyw.com/index/35591.html)<br>
+**资源77**：[黑白软件库](https://soft2.kittyyw.com/index/35592.html)<br>
+**资源78**：[邪恶雪人2](https://soft2.kittyyw.com/index/35593.html)<br>
+**资源79**：[北辞弱网最新版](https://soft2.kittyyw.com/index/35594.html)<br>
+**资源80**：[抖音创作服务平台](https://soft2.kittyyw.com/index/35595.html)<br>
+**资源81**：[ogm折相思](https://soft2.kittyyw.com/index/35596.html)<br>
+**资源82**：[easyrecovery数据恢复](https://soft2.kittyyw.com/index/35597.html)<br>
+**资源83**：[本地音乐歌词适配](https://soft2.kittyyw.com/index/35598.html)<br>
+**资源84**：[SRPatch去签名工具](https://soft2.kittyyw.com/index/35599.html)<br>
+**资源85**：[阅读app](https://soft2.kittyyw.com/index/35600.html)<br>
+**资源86**：[极限挑战自行车2](https://soft2.kittyyw.com/index/35601.html)<br>
+**资源87**：[GunsUp手机版](https://soft2.kittyyw.com/index/35602.html)<br>
+**资源88**：[像素刀片M最新版](https://soft2.kittyyw.com/index/35603.html)<br>
+**资源89**：[假面骑士超巅峰英雄完整版](https://soft2.kittyyw.com/index/35604.html)<br>
+**资源90**：[恐怖蜘蛛怪物联机版](https://soft2.kittyyw.com/index/35605.html)<br>
+**资源91**：[荒野日记孤岛单机版](https://soft2.kittyyw.com/index/35606.html)<br>
+**资源92**：[小小铁路正版](https://soft2.kittyyw.com/index/35607.html)<br>
+**资源93**：[恐怖冰淇淋3outwitt模组](https://soft2.kittyyw.com/index/35608.html)<br>
+**资源94**：[僵尸之夜恐怖汉化版](https://soft2.kittyyw.com/index/35609.html)<br>
+**资源95**：[战地1939手机版](https://soft2.kittyyw.com/index/35610.html)<br>
+**资源96**：[地狱骑士3](https://soft2.kittyyw.com/index/35611.html)<br>
+**资源97**：[僵尸之夜恐怖中文版](https://soft2.kittyyw.com/index/35612.html)<br>
+**资源98**：[鬼修女3迷宫无尽逃亡mod菜单](https://soft2.kittyyw.com/index/35613.html)<br>
+**资源99**：[勇者大陆男巫汉化版](https://soft2.kittyyw.com/index/35614.html)<br>
+**资源100**：[残酷之旅中文版](https://soft2.kittyyw.com/index/35615.html)<br>
 
 ---
 
 **来源参考：**
-- [国产折叠防晒露营天幕升级隔热层，夏日户外避暑神器热销.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%9B%BD%E4%BA%A7%E6%8A%98%E5%8F%A0%E9%98%B2%E6%99%92%E9%9C%B2%E8%90%A5%E5%A4%A9%E5%B9%95%E5%8D%87%E7%BA%A7%E9%9A%94%E7%83%AD%E5%B1%82%EF%BC%8C%E5%A4%8F%E6%97%A5%E6%88%B7%E5%A4%96%E9%81%BF%E6%9A%91%E7%A5%9E%E5%99%A8%E7%83%AD%E9%94%80.md)
-- [果园铺设反光降温地膜，促进果实均匀着色提质增产.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%9E%9C%E5%9B%AD%E9%93%BA%E8%AE%BE%E5%8F%8D%E5%85%89%E9%99%8D%E6%B8%A9%E5%9C%B0%E8%86%9C%EF%BC%8C%E4%BF%83%E8%BF%9B%E6%9E%9C%E5%AE%9E%E5%9D%87%E5%8C%80%E7%9D%80%E8%89%B2%E6%8F%90%E8%B4%A8%E5%A2%9E%E4%BA%A7.md)
-- [我国建成全球最大规模5G-A商用网络.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%88%91%E5%9B%BD%E5%BB%BA%E6%88%90%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A15G-A%E5%95%86%E7%94%A8%E7%BD%91%E7%BB%9C.md)
-- [Daily News_AI Builders_20260612_05.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/Daily%20News_AI%20Builders_20260612_05.md)
-- [新能源车企上线车载智能避暑模式，一键适配高温行车场景.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%81%E4%B8%8A%E7%BA%BF%E8%BD%A6%E8%BD%BD%E6%99%BA%E8%83%BD%E9%81%BF%E6%9A%91%E6%A8%A1%E5%BC%8F%EF%BC%8C%E4%B8%80%E9%94%AE%E9%80%82%E9%85%8D%E9%AB%98%E6%B8%A9%E8%A1%8C%E8%BD%A6%E5%9C%BA%E6%99%AF.md)
-- [Daily News_AI Builders_20260612_26.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/Daily%20News_AI%20Builders_20260612_26.md)
-- [Daily News_AI Builders_20260612_44.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/Daily%20News_AI%20Builders_20260612_44.md)
-- [国产高端医学影像设备获欧盟CE认证.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%9B%BD%E4%BA%A7%E9%AB%98%E7%AB%AF%E5%8C%BB%E5%AD%A6%E5%BD%B1%E5%83%8F%E8%AE%BE%E5%A4%87%E8%8E%B7%E6%AC%A7%E7%9B%9FCE%E8%AE%A4%E8%AF%81.md)
-- [银行网点升级夏日便民服务，打造市民清凉等候驿站.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E9%93%B6%E8%A1%8C%E7%BD%91%E7%82%B9%E5%8D%87%E7%BA%A7%E5%A4%8F%E6%97%A5%E4%BE%BF%E6%B0%91%E6%9C%8D%E5%8A%A1%EF%BC%8C%E6%89%93%E9%80%A0%E5%B8%82%E6%B0%91%E6%B8%85%E5%87%89%E7%AD%89%E5%80%99%E9%A9%BF%E7%AB%99.md)
-- [Daily News_AI Builders_20260612_24.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/Daily%20News_AI%20Builders_20260612_24.md)
+- [老旧小区外墙隔热翻新，根治夏日屋内暴晒闷热难题.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E8%80%81%E6%97%A7%E5%B0%8F%E5%8C%BA%E5%A4%96%E5%A2%99%E9%9A%94%E7%83%AD%E7%BF%BB%E6%96%B0%EF%BC%8C%E6%A0%B9%E6%B2%BB%E5%A4%8F%E6%97%A5%E5%B1%8B%E5%86%85%E6%9A%B4%E6%99%92%E9%97%B7%E7%83%AD%E9%9A%BE%E9%A2%98.md)
+- [Daily News_AI Builders_20260612_25.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/Daily%20News_AI%20Builders_20260612_25.md)
+- [Daily News_AI Builders_20260612_01.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/Daily%20News_AI%20Builders_20260612_01.md)
+- [工信部人形标委会数据工作组扩至7个.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%B7%A5%E4%BF%A1%E9%83%A8%E4%BA%BA%E5%BD%A2%E6%A0%87%E5%A7%94%E4%BC%9A%E6%95%B0%E6%8D%AE%E5%B7%A5%E4%BD%9C%E7%BB%84%E6%89%A9%E8%87%B37%E4%B8%AA.md)
+- [家用全自动果蔬清洗机热销，高温夏季守护饮食洁净安全.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%AE%B6%E7%94%A8%E5%85%A8%E8%87%AA%E5%8A%A8%E6%9E%9C%E8%94%AC%E6%B8%85%E6%B4%97%E6%9C%BA%E7%83%AD%E9%94%80%EF%BC%8C%E9%AB%98%E6%B8%A9%E5%A4%8F%E5%AD%A3%E5%AE%88%E6%8A%A4%E9%A5%AE%E9%A3%9F%E6%B4%81%E5%87%80%E5%AE%89%E5%85%A8.md)
+- [家用自动驱蚊灭蚊灯升级，静音无辐射守护夏日居家睡眠.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%AE%B6%E7%94%A8%E8%87%AA%E5%8A%A8%E9%A9%B1%E8%9A%8A%E7%81%AD%E8%9A%8A%E7%81%AF%E5%8D%87%E7%BA%A7%EF%BC%8C%E9%9D%99%E9%9F%B3%E6%97%A0%E8%BE%90%E5%B0%84%E5%AE%88%E6%8A%A4%E5%A4%8F%E6%97%A5%E5%B1%85%E5%AE%B6%E7%9D%A1%E7%9C%A0.md)
+- [文远GXR多城纯无人+WITT闭环.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%96%87%E8%BF%9CGXR%E5%A4%9A%E5%9F%8E%E7%BA%AF%E6%97%A0%E4%BA%BA%2BWITT%E9%97%AD%E7%8E%AF.md)
+- [户外工地推行错峰施工制度，全方位保障建筑工人高温作业安全.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%88%B7%E5%A4%96%E5%B7%A5%E5%9C%B0%E6%8E%A8%E8%A1%8C%E9%94%99%E5%B3%B0%E6%96%BD%E5%B7%A5%E5%88%B6%E5%BA%A6%EF%BC%8C%E5%85%A8%E6%96%B9%E4%BD%8D%E4%BF%9D%E9%9A%9C%E5%BB%BA%E7%AD%91%E5%B7%A5%E4%BA%BA%E9%AB%98%E6%B8%A9%E4%BD%9C%E4%B8%9A%E5%AE%89%E5%85%A8.md)
+- [星枢DB高光谱检索插件开放.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%98%9F%E6%9E%A2DB%E9%AB%98%E5%85%89%E8%B0%B1%E6%A3%80%E7%B4%A2%E6%8F%92%E4%BB%B6%E5%BC%80%E6%94%BE.md)
+- [节卡K1-25重载双臂25kg±0.05mm.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E8%8A%82%E5%8D%A1K1-25%E9%87%8D%E8%BD%BD%E5%8F%8C%E8%87%8225kg%C2%B10.05mm.md)

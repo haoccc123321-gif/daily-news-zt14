@@ -1,0 +1,164 @@
+# 智身科技防爆四足SP1进石化巡检
+
+**2026年7月17日 12时34分56秒**
+
+---
+
+智身科技在WAIC展出防爆四足SP1，面向石油、化工高危巡检，配套MATRiX 2.0开放世界仿真平台解决Sim2Real难题。防爆认证是硬门槛：石化厂Zone 1区不允许普通电机火花，SP1需本安型驱动、陶瓷轴承、无刷密封，整机过ATEX/IECEx。它载气体传感器、红外热像、声纹探头，沿管廊走，发现法兰微漏、轴承过热、阀门异响即上报。四足比轮式适合管廊踏步与格栅板，比无人机续航长、可贴地。MATRiX 2.0让机器人在仿真厂里先跑雷暴、积液、管线改装场景，再迁移现场。该类产品客户是央企油服与园区安监，付费能力强但认证周期长。智身已累计量产破1.5万台机器人，防爆四足是其从电力巡检升维到流程工业的钥匙。落地意义：把人从"闻得到硫化氢的巡检"里彻底替掉。
+
+---
+
+[不学英语专业版](https://soft2.kittyyw.com/index/60533.html) | [adobe acrobat安卓版](https://soft2.kittyyw.com/index/60534.html) | [云推巨量](https://soft2.kittyyw.com/index/60535.html) | [它界](https://soft2.kittyyw.com/index/60536.html) | [海鸥影评2026最新版](https://soft2.kittyyw.com/index/60537.html) | [Fluent图标包](https://soft2.kittyyw.com/index/60538.html) | [共创世界](https://soft2.kittyyw.com/index/60539.html) | [柚子](https://soft2.kittyyw.com/index/60540.html) | [追影猫](https://soft2.kittyyw.com/index/60541.html) | [彩云小梦免费版](https://soft2.kittyyw.com/index/60542.html)
+
+来源依据：
+来源依据：[线上生鲜平台推出早晚清凉配送时段，减少食材高温变质损耗.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E7%BA%BF%E4%B8%8A%E7%94%9F%E9%B2%9C%E5%B9%B3%E5%8F%B0%E6%8E%A8%E5%87%BA%E6%97%A9%E6%99%9A%E6%B8%85%E5%87%89%E9%85%8D%E9%80%81%E6%97%B6%E6%AE%B5%EF%BC%8C%E5%87%8F%E5%B0%91%E9%A3%9F%E6%9D%90%E9%AB%98%E6%B8%A9%E5%8F%98%E8%B4%A8%E6%8D%9F%E8%80%97.md)<br>
+[大众×地平线L32027交付.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%A4%A7%E4%BC%97%C3%97%E5%9C%B0%E5%B9%B3%E7%BA%BFL32027%E4%BA%A4%E4%BB%98.md)<br>
+[全国首个海上浮式风电平台并网发电.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%85%A8%E5%9B%BD%E9%A6%96%E4%B8%AA%E6%B5%B7%E4%B8%8A%E6%B5%AE%E5%BC%8F%E9%A3%8E%E7%94%B5%E5%B9%B3%E5%8F%B0%E5%B9%B6%E7%BD%91%E5%8F%91%E7%94%B5.md)<br>
+[峰飞V2000CG三证+顺丰风电运维工单.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%B3%B0%E9%A3%9EV2000CG%E4%B8%89%E8%AF%81%2B%E9%A1%BA%E4%B8%B0%E9%A3%8E%E7%94%B5%E8%BF%90%E7%BB%B4%E5%B7%A5%E5%8D%95.md)<br>
+[圆通×双溪低空多式联运.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%9C%86%E9%80%9A%C3%97%E5%8F%8C%E6%BA%AA%E4%BD%8E%E7%A9%BA%E5%A4%9A%E5%BC%8F%E8%81%94%E8%BF%90.md)<br>
+[全国首个社区食堂可持续运营模式推广.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%85%A8%E5%9B%BD%E9%A6%96%E4%B8%AA%E7%A4%BE%E5%8C%BA%E9%A3%9F%E5%A0%82%E5%8F%AF%E6%8C%81%E7%BB%AD%E8%BF%90%E8%90%A5%E6%A8%A1%E5%BC%8F%E6%8E%A8%E5%B9%BF.md)<br>
+[新型家用降温冰晶枕上市，恒温透气提升夏日睡眠质量.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%96%B0%E5%9E%8B%E5%AE%B6%E7%94%A8%E9%99%8D%E6%B8%A9%E5%86%B0%E6%99%B6%E6%9E%95%E4%B8%8A%E5%B8%82%EF%BC%8C%E6%81%92%E6%B8%A9%E9%80%8F%E6%B0%94%E6%8F%90%E5%8D%87%E5%A4%8F%E6%97%A5%E7%9D%A1%E7%9C%A0%E8%B4%A8%E9%87%8F.md)<br>
+[谷歌自研Gemini专用芯片Frozenv2.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E8%B0%B7%E6%AD%8C%E8%87%AA%E7%A0%94Gemini%E4%B8%93%E7%94%A8%E8%8A%AF%E7%89%87Frozenv2.md)<br>
+[我国首条跨海高铁正式开通运营.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%88%91%E5%9B%BD%E9%A6%96%E6%9D%A1%E8%B7%A8%E6%B5%B7%E9%AB%98%E9%93%81%E6%AD%A3%E5%BC%8F%E5%BC%80%E9%80%9A%E8%BF%90%E8%90%A5.md)<br>
+[露天体育场馆加装遮阳降温设施，保障市民夏日运动健身.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E9%9C%B2%E5%A4%A9%E4%BD%93%E8%82%B2%E5%9C%BA%E9%A6%86%E5%8A%A0%E8%A3%85%E9%81%AE%E9%98%B3%E9%99%8D%E6%B8%A9%E8%AE%BE%E6%96%BD%EF%BC%8C%E4%BF%9D%E9%9A%9C%E5%B8%82%E6%B0%91%E5%A4%8F%E6%97%A5%E8%BF%90%E5%8A%A8%E5%81%A5%E8%BA%AB.md)<br>
+
+[音乐速度调节器2026版](https://soft2.kittyyw.com/index/60543.html) | [隐空间](https://soft2.kittyyw.com/index/60544.html) | [极速影视](https://soft2.kittyyw.com/index/60545.html) | [connect](https://soft2.kittyyw.com/index/60546.html) | [定时自动发圈软件](https://soft2.kittyyw.com/index/60547.html) | [六爻排盘宝](https://soft2.kittyyw.com/index/60548.html) | [hifi音乐专业版](https://soft2.kittyyw.com/index/60549.html) | [adguard免费版](https://soft2.kittyyw.com/index/60550.html) | [cutecut免费版](https://soft2.kittyyw.com/index/60551.html) | [浆果旋律手游](https://soft2.kittyyw.com/index/60552.html)
+
+来源依据：
+来源依据：[长十乙网系回收复用完好率97%.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E9%95%BF%E5%8D%81%E4%B9%99%E7%BD%91%E7%B3%BB%E5%9B%9E%E6%94%B6%E5%A4%8D%E7%94%A8%E5%AE%8C%E5%A5%BD%E7%8E%8797%25.md)<br>
+[三项海上发射国标11月实施.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E4%B8%89%E9%A1%B9%E6%B5%B7%E4%B8%8A%E5%8F%91%E5%B0%84%E5%9B%BD%E6%A0%8711%E6%9C%88%E5%AE%9E%E6%96%BD.md)<br>
+[Daily News_AI Builders_20260612_23.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/Daily%20News_AI%20Builders_20260612_23.md)<br>
+[小米MiMo-V2.5万亿MoE开源+100万亿Token.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%B0%8F%E7%B1%B3MiMo-V2.5%E4%B8%87%E4%BA%BFMoE%E5%BC%80%E6%BA%90%2B100%E4%B8%87%E4%BA%BFToken.md)<br>
+[湿地公园打造夏日观鸟清凉专线，生态避暑休闲出圈.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%B9%BF%E5%9C%B0%E5%85%AC%E5%9B%AD%E6%89%93%E9%80%A0%E5%A4%8F%E6%97%A5%E8%A7%82%E9%B8%9F%E6%B8%85%E5%87%89%E4%B8%93%E7%BA%BF%EF%BC%8C%E7%94%9F%E6%80%81%E9%81%BF%E6%9A%91%E4%BC%91%E9%97%B2%E5%87%BA%E5%9C%88.md)<br>
+[低脂冰爽杂粮糕热销，夏日解馋无负担健康点心.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E4%BD%8E%E8%84%82%E5%86%B0%E7%88%BD%E6%9D%82%E7%B2%AE%E7%B3%95%E7%83%AD%E9%94%80%EF%BC%8C%E5%A4%8F%E6%97%A5%E8%A7%A3%E9%A6%8B%E6%97%A0%E8%B4%9F%E6%8B%85%E5%81%A5%E5%BA%B7%E7%82%B9%E5%BF%83.md)<br>
+[绿源×有鹿10万套关节+1万整机.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E7%BB%BF%E6%BA%90%C3%97%E6%9C%89%E9%B9%BF10%E4%B8%87%E5%A5%97%E5%85%B3%E8%8A%82%2B1%E4%B8%87%E6%95%B4%E6%9C%BA.md)<br>
+[卡奥斯首发工业世界模型.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%8D%A1%E5%A5%A5%E6%96%AF%E9%A6%96%E5%8F%91%E5%B7%A5%E4%B8%9A%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B.md)<br>
+[果园铺设反光降温地膜，促进果实均匀着色提质增产.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%9E%9C%E5%9B%AD%E9%93%BA%E8%AE%BE%E5%8F%8D%E5%85%89%E9%99%8D%E6%B8%A9%E5%9C%B0%E8%86%9C%EF%BC%8C%E4%BF%83%E8%BF%9B%E6%9E%9C%E5%AE%9E%E5%9D%87%E5%8C%80%E7%9D%80%E8%89%B2%E6%8F%90%E8%B4%A8%E5%A2%9E%E4%BA%A7.md)<br>
+[面壁MiniCPM5-2B+Robot系列开源.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E9%9D%A2%E5%A3%81MiniCPM5-2B%2BRobot%E7%B3%BB%E5%88%97%E5%BC%80%E6%BA%90.md)<br>
+
+[magicposer](https://soft2.kittyyw.com/index/60553.html) | [比亚迪海洋](https://soft2.kittyyw.com/index/60554.html) | [电子红包](https://soft2.kittyyw.com/index/60555.html) | [番茄ToDo](https://soft2.kittyyw.com/index/60556.html) | [百度视频](https://soft2.kittyyw.com/index/60557.html) | [手机电视直播](https://soft2.kittyyw.com/index/60558.html) | [真实出租车模拟器](https://soft2.kittyyw.com/index/60559.html) | [bip](https://soft2.kittyyw.com/index/60560.html) | [壁纸秀秀免费版](https://soft2.kittyyw.com/index/60561.html) | [先发制人](https://soft2.kittyyw.com/index/60562.html)
+
+来源依据：
+来源依据：[车载便携制冷小冰箱热销，出行保鲜解锁夏日清凉出行.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E8%BD%A6%E8%BD%BD%E4%BE%BF%E6%90%BA%E5%88%B6%E5%86%B7%E5%B0%8F%E5%86%B0%E7%AE%B1%E7%83%AD%E9%94%80%EF%BC%8C%E5%87%BA%E8%A1%8C%E4%BF%9D%E9%B2%9C%E8%A7%A3%E9%94%81%E5%A4%8F%E6%97%A5%E6%B8%85%E5%87%89%E5%87%BA%E8%A1%8C.md)<br>
+[我国首颗太阳探测卫星“羲和二号”发射成功.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%88%91%E5%9B%BD%E9%A6%96%E9%A2%97%E5%A4%AA%E9%98%B3%E6%8E%A2%E6%B5%8B%E5%8D%AB%E6%98%9F%E2%80%9C%E7%BE%B2%E5%92%8C%E4%BA%8C%E5%8F%B7%E2%80%9D%E5%8F%91%E5%B0%84%E6%88%90%E5%8A%9F.md)<br>
+[全国首个数字人民币跨境支付走廊贯通.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%85%A8%E5%9B%BD%E9%A6%96%E4%B8%AA%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E8%B7%A8%E5%A2%83%E6%94%AF%E4%BB%98%E8%B5%B0%E5%BB%8A%E8%B4%AF%E9%80%9A.md)<br>
+[家用浴室折叠隔热浴帘上新，杜绝夏季浴室闷热返潮.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%AE%B6%E7%94%A8%E6%B5%B4%E5%AE%A4%E6%8A%98%E5%8F%A0%E9%9A%94%E7%83%AD%E6%B5%B4%E5%B8%98%E4%B8%8A%E6%96%B0%EF%BC%8C%E6%9D%9C%E7%BB%9D%E5%A4%8F%E5%AD%A3%E6%B5%B4%E5%AE%A4%E9%97%B7%E7%83%AD%E8%BF%94%E6%BD%AE.md)<br>
+[社区便民洗衣驿站开放，解决夏日衣物多汗难清洗问题.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E7%A4%BE%E5%8C%BA%E4%BE%BF%E6%B0%91%E6%B4%97%E8%A1%A3%E9%A9%BF%E7%AB%99%E5%BC%80%E6%94%BE%EF%BC%8C%E8%A7%A3%E5%86%B3%E5%A4%8F%E6%97%A5%E8%A1%A3%E7%89%A9%E5%A4%9A%E6%B1%97%E9%9A%BE%E6%B8%85%E6%B4%97%E9%97%AE%E9%A2%98.md)<br>
+[梅卡曼德一脑多形工业具身落地.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%A2%85%E5%8D%A1%E6%9B%BC%E5%BE%B7%E4%B8%80%E8%84%91%E5%A4%9A%E5%BD%A2%E5%B7%A5%E4%B8%9A%E5%85%B7%E8%BA%AB%E8%90%BD%E5%9C%B0.md)<br>
+[国产碳纤维T1100级实现实验室突破.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%9B%BD%E4%BA%A7%E7%A2%B3%E7%BA%A4%E7%BB%B4T1100%E7%BA%A7%E5%AE%9E%E7%8E%B0%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%AA%81%E7%A0%B4.md)<br>
+[Daily News_AI Builders_20260612_37.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/Daily%20News_AI%20Builders_20260612_37.md)<br>
+[全国首个残疾人无障碍旅游服务标准实施.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%85%A8%E5%9B%BD%E9%A6%96%E4%B8%AA%E6%AE%8B%E7%96%BE%E4%BA%BA%E6%97%A0%E9%9A%9C%E7%A2%8D%E6%97%85%E6%B8%B8%E6%9C%8D%E5%8A%A1%E6%A0%87%E5%87%86%E5%AE%9E%E6%96%BD.md)<br>
+[WAIC闭幕信号：部署态元年+世界模型热.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/WAIC%E9%97%AD%E5%B9%95%E4%BF%A1%E5%8F%B7%EF%BC%9A%E9%83%A8%E7%BD%B2%E6%80%81%E5%85%83%E5%B9%B4%2B%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B%E7%83%AD.md)<br>
+
+[kitplayer](https://soft2.kittyyw.com/index/60563.html) | [小包搜题2026最新版](https://soft2.kittyyw.com/index/60564.html) | [扫描王](https://soft2.kittyyw.com/index/60565.html) | [华为阅读](https://soft2.kittyyw.com/index/60566.html) | [徐州地铁](https://soft2.kittyyw.com/index/60567.html) | [渝快办](https://soft2.kittyyw.com/index/60568.html) | [symusic](https://soft2.kittyyw.com/index/60569.html) | [鲨鲨酱](https://soft2.kittyyw.com/index/60570.html) | [元萝卜](https://soft2.kittyyw.com/index/60571.html) | [卡包修仙](https://soft2.kittyyw.com/index/60572.html)
+
+来源依据：
+来源依据：[湿地公园打造夏日观鸟清凉专线，生态避暑休闲出圈.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%B9%BF%E5%9C%B0%E5%85%AC%E5%9B%AD%E6%89%93%E9%80%A0%E5%A4%8F%E6%97%A5%E8%A7%82%E9%B8%9F%E6%B8%85%E5%87%89%E4%B8%93%E7%BA%BF%EF%BC%8C%E7%94%9F%E6%80%81%E9%81%BF%E6%9A%91%E4%BC%91%E9%97%B2%E5%87%BA%E5%9C%88.md)<br>
+[独山子石化120万吨绿电乙烯投产.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E7%8B%AC%E5%B1%B1%E5%AD%90%E7%9F%B3%E5%8C%96120%E4%B8%87%E5%90%A8%E7%BB%BF%E7%94%B5%E4%B9%99%E7%83%AF%E6%8A%95%E4%BA%A7.md)<br>
+[Daily News_AI Builders_20260612_42.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/Daily%20News_AI%20Builders_20260612_42.md)<br>
+[千帆238颗+玉龙星载AI.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%8D%83%E5%B8%86238%E9%A2%97%2B%E7%8E%89%E9%BE%99%E6%98%9F%E8%BD%BDAI.md)<br>
+[面壁MiniCPM5-2B+MiniCPM-Robot开源.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E9%9D%A2%E5%A3%81MiniCPM5-2B%2BMiniCPM-Robot%E5%BC%80%E6%BA%90.md)<br>
+[长十乙网系回收复用完好率97%.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E9%95%BF%E5%8D%81%E4%B9%99%E7%BD%91%E7%B3%BB%E5%9B%9E%E6%94%B6%E5%A4%8D%E7%94%A8%E5%AE%8C%E5%A5%BD%E7%8E%8797%25.md)<br>
+[电信智传网AIFlow以算力换带宽.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E7%94%B5%E4%BF%A1%E6%99%BA%E4%BC%A0%E7%BD%91AIFlow%E4%BB%A5%E7%AE%97%E5%8A%9B%E6%8D%A2%E5%B8%A6%E5%AE%BD.md)<br>
+[四部门文件定调卫星互联网为基础资源.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%9B%9B%E9%83%A8%E9%97%A8%E6%96%87%E4%BB%B6%E5%AE%9A%E8%B0%83%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%B8%BA%E5%9F%BA%E7%A1%80%E8%B5%84%E6%BA%90.md)<br>
+[昆仑Matrix-Game3.5+Murekav9.5.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%98%86%E4%BB%91Matrix-Game3.5%2BMurekav9.5.md)<br>
+[全国首个社区嵌入式养老服务中心全覆盖.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%85%A8%E5%9B%BD%E9%A6%96%E4%B8%AA%E7%A4%BE%E5%8C%BA%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%85%BB%E8%80%81%E6%9C%8D%E5%8A%A1%E4%B8%AD%E5%BF%83%E5%85%A8%E8%A6%86%E7%9B%96.md)<br>
+
+[喵走出行](https://soft2.kittyyw.com/index/60573.html) | [健康之路](https://soft2.kittyyw.com/index/60574.html) | [fly音乐最新版](https://soft2.kittyyw.com/index/60575.html) | [兴趣岛](https://soft2.kittyyw.com/index/60576.html) | [火乐园](https://soft2.kittyyw.com/index/60577.html) | [英语四级真题](https://soft2.kittyyw.com/index/60578.html) | [share微博2026最新版](https://soft2.kittyyw.com/index/60579.html) | [塞勒特大陆手机版](https://soft2.kittyyw.com/index/60580.html) | [美剧大全](https://soft2.kittyyw.com/index/60581.html) | [音悦适配](https://soft2.kittyyw.com/index/60582.html)
+
+来源依据：
+来源依据：[上海物理智能与机器人研究院揭牌+UniAI.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E4%B8%8A%E6%B5%B7%E7%89%A9%E7%90%86%E6%99%BA%E8%83%BD%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A0%94%E7%A9%B6%E9%99%A2%E6%8F%AD%E7%89%8C%2BUniAI.md)<br>
+[城市口袋公园全面提档，打造家门口的清凉纳凉微空间.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%9F%8E%E5%B8%82%E5%8F%A3%E8%A2%8B%E5%85%AC%E5%9B%AD%E5%85%A8%E9%9D%A2%E6%8F%90%E6%A1%A3%EF%BC%8C%E6%89%93%E9%80%A0%E5%AE%B6%E9%97%A8%E5%8F%A3%E7%9A%84%E6%B8%85%E5%87%89%E7%BA%B3%E5%87%89%E5%BE%AE%E7%A9%BA%E9%97%B4.md)<br>
+[蚂蚁灵波智慧药房90秒配药.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E8%9A%82%E8%9A%81%E7%81%B5%E6%B3%A2%E6%99%BA%E6%85%A7%E8%8D%AF%E6%88%BF90%E7%A7%92%E9%85%8D%E8%8D%AF.md)<br>
+[文创夏日清凉折扇走红，非遗工艺解锁避暑新风雅.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%96%87%E5%88%9B%E5%A4%8F%E6%97%A5%E6%B8%85%E5%87%89%E6%8A%98%E6%89%87%E8%B5%B0%E7%BA%A2%EF%BC%8C%E9%9D%9E%E9%81%97%E5%B7%A5%E8%89%BA%E8%A7%A3%E9%94%81%E9%81%BF%E6%9A%91%E6%96%B0%E9%A3%8E%E9%9B%85.md)<br>
+[星动L7机器人360°旋转跳街舞.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%98%9F%E5%8A%A8L7%E6%9C%BA%E5%99%A8%E4%BA%BA360%C2%B0%E6%97%8B%E8%BD%AC%E8%B7%B3%E8%A1%97%E8%88%9E.md)<br>
+[商业航天创新联合体271家+西安50亿基金.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E5%88%9B%E6%96%B0%E8%81%94%E5%90%88%E4%BD%93271%E5%AE%B6%2B%E8%A5%BF%E5%AE%8950%E4%BA%BF%E5%9F%BA%E9%87%91.md)<br>
+[全国首个数据资产入表操作指引发布.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%85%A8%E5%9B%BD%E9%A6%96%E4%B8%AA%E6%95%B0%E6%8D%AE%E8%B5%84%E4%BA%A7%E5%85%A5%E8%A1%A8%E6%93%8D%E4%BD%9C%E6%8C%87%E5%BC%95%E5%8F%91%E5%B8%83.md)<br>
+[Daily News_AI Builders_20260612_14.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/Daily%20News_AI%20Builders_20260612_14.md)<br>
+[昆仑Matrix-Game3.5+Murekav9.5.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%98%86%E4%BB%91Matrix-Game3.5%2BMurekav9.5.md)<br>
+[大众×地平线CARIAD酷睿程深化L32027.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%A4%A7%E4%BC%97%C3%97%E5%9C%B0%E5%B9%B3%E7%BA%BFCARIAD%E9%85%B7%E7%9D%BF%E7%A8%8B%E6%B7%B1%E5%8C%96L32027.md)<br>
+
+[斗鱼直播](https://soft2.kittyyw.com/index/60583.html) | [小猿搜题老版](https://soft2.kittyyw.com/index/60584.html) | [美家市场2026最新版](https://soft2.kittyyw.com/index/60585.html) | [viggle ai](https://soft2.kittyyw.com/index/60586.html) | [指尖无双手游](https://soft2.kittyyw.com/index/60587.html) | [webcat免费版](https://soft2.kittyyw.com/index/60588.html) | [咕噜咕噜最新版](https://soft2.kittyyw.com/index/60589.html) | [中关村在线](https://soft2.kittyyw.com/index/60590.html) | [神奇影视](https://soft2.kittyyw.com/index/60591.html) | [e浏览器最新版](https://soft2.kittyyw.com/index/60592.html)
+
+来源依据：
+来源依据：[益生菌清凉酸奶杯上新，低糖解暑适配夏季肠胃养护.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E7%9B%8A%E7%94%9F%E8%8F%8C%E6%B8%85%E5%87%89%E9%85%B8%E5%A5%B6%E6%9D%AF%E4%B8%8A%E6%96%B0%EF%BC%8C%E4%BD%8E%E7%B3%96%E8%A7%A3%E6%9A%91%E9%80%82%E9%85%8D%E5%A4%8F%E5%AD%A3%E8%82%A0%E8%83%83%E5%85%BB%E6%8A%A4.md)<br>
+[山地农田修建简易引水沟渠，筑牢夏季抗旱保收防线.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%B1%B1%E5%9C%B0%E5%86%9C%E7%94%B0%E4%BF%AE%E5%BB%BA%E7%AE%80%E6%98%93%E5%BC%95%E6%B0%B4%E6%B2%9F%E6%B8%A0%EF%BC%8C%E7%AD%91%E7%89%A2%E5%A4%8F%E5%AD%A3%E6%8A%97%E6%97%B1%E4%BF%9D%E6%94%B6%E9%98%B2%E7%BA%BF.md)<br>
+[OpenAI评测失控促Agent安全国标预研.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/OpenAI%E8%AF%84%E6%B5%8B%E5%A4%B1%E6%8E%A7%E4%BF%83Agent%E5%AE%89%E5%85%A8%E5%9B%BD%E6%A0%87%E9%A2%84%E7%A0%94.md)<br>
+[Daily News_AI Builders_20260612_21.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/Daily%20News_AI%20Builders_20260612_21.md)<br>
+[字节GR-3+ByteMini内部仓配.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%AD%97%E8%8A%82GR-3%2BByteMini%E5%86%85%E9%83%A8%E4%BB%93%E9%85%8D.md)<br>
+[低海拔高山茶园推行遮阳网精细化管护，茶叶夏茶品质提升.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E4%BD%8E%E6%B5%B7%E6%8B%94%E9%AB%98%E5%B1%B1%E8%8C%B6%E5%9B%AD%E6%8E%A8%E8%A1%8C%E9%81%AE%E9%98%B3%E7%BD%91%E7%B2%BE%E7%BB%86%E5%8C%96%E7%AE%A1%E6%8A%A4%EF%BC%8C%E8%8C%B6%E5%8F%B6%E5%A4%8F%E8%8C%B6%E5%93%81%E8%B4%A8%E6%8F%90%E5%8D%87.md)<br>
+[引力一号遥四东海一箭九星入轨.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%BC%95%E5%8A%9B%E4%B8%80%E5%8F%B7%E9%81%A5%E5%9B%9B%E4%B8%9C%E6%B5%B7%E4%B8%80%E7%AE%AD%E4%B9%9D%E6%98%9F%E5%85%A5%E8%BD%A8.md)<br>
+[商业航天创新联合体271家+西安50亿基金.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E5%88%9B%E6%96%B0%E8%81%94%E5%90%88%E4%BD%93271%E5%AE%B6%2B%E8%A5%BF%E5%AE%8950%E4%BA%BF%E5%9F%BA%E9%87%91.md)<br>
+[文具店上架夏日防汗防滑学习好物，解决伏案学习闷热难题.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%96%87%E5%85%B7%E5%BA%97%E4%B8%8A%E6%9E%B6%E5%A4%8F%E6%97%A5%E9%98%B2%E6%B1%97%E9%98%B2%E6%BB%91%E5%AD%A6%E4%B9%A0%E5%A5%BD%E7%89%A9%EF%BC%8C%E8%A7%A3%E5%86%B3%E4%BC%8F%E6%A1%88%E5%AD%A6%E4%B9%A0%E9%97%B7%E7%83%AD%E9%9A%BE%E9%A2%98.md)<br>
+[我国首套深海采矿车完成千米级海试.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%88%91%E5%9B%BD%E9%A6%96%E5%A5%97%E6%B7%B1%E6%B5%B7%E9%87%87%E7%9F%BF%E8%BD%A6%E5%AE%8C%E6%88%90%E5%8D%83%E7%B1%B3%E7%BA%A7%E6%B5%B7%E8%AF%95.md)<br>
+
+[稿定设计](https://soft2.kittyyw.com/index/60593.html) | [爱跑腿](https://soft2.kittyyw.com/index/60594.html) | [weights](https://soft2.kittyyw.com/index/60595.html) | [symusic2026](https://soft2.kittyyw.com/index/60596.html) | [方格音乐最新版](https://soft2.kittyyw.com/index/60597.html) | [萝卜快跑](https://soft2.kittyyw.com/index/60598.html) | [无畏契约：源能行动官方版](https://soft2.kittyyw.com/index/60599.html) | [魔法少女的魔女审判手机版](https://soft2.kittyyw.com/index/60600.html) | [斗罗大陆魂师对决测试服](https://soft2.kittyyw.com/index/60601.html) | [神林家杀人事件游戏](https://soft2.kittyyw.com/index/60602.html)
+
+来源依据：
+来源依据：[OpenAI评测失控促Agent安全国标预研.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/OpenAI%E8%AF%84%E6%B5%8B%E5%A4%B1%E6%8E%A7%E4%BF%83Agent%E5%AE%89%E5%85%A8%E5%9B%BD%E6%A0%87%E9%A2%84%E7%A0%94.md)<br>
+[人形交管+潮汐护栏机器人上岗.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E4%BA%BA%E5%BD%A2%E4%BA%A4%E7%AE%A1%2B%E6%BD%AE%E6%B1%90%E6%8A%A4%E6%A0%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E5%B2%97.md)<br>
+[物业推出夏季免费便民洗车服务，提升小区夏日物业服务质感.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E7%89%A9%E4%B8%9A%E6%8E%A8%E5%87%BA%E5%A4%8F%E5%AD%A3%E5%85%8D%E8%B4%B9%E4%BE%BF%E6%B0%91%E6%B4%97%E8%BD%A6%E6%9C%8D%E5%8A%A1%EF%BC%8C%E6%8F%90%E5%8D%87%E5%B0%8F%E5%8C%BA%E5%A4%8F%E6%97%A5%E7%89%A9%E4%B8%9A%E6%9C%8D%E5%8A%A1%E8%B4%A8%E6%84%9F.md)<br>
+[追知工科工业具身动态打磨.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E8%BF%BD%E7%9F%A5%E5%B7%A5%E7%A7%91%E5%B7%A5%E4%B8%9A%E5%85%B7%E8%BA%AB%E5%8A%A8%E6%80%81%E6%89%93%E7%A3%A8.md)<br>
+[全国首个城市级车路云一体化示范区验收通过.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%85%A8%E5%9B%BD%E9%A6%96%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%BA%A7%E8%BD%A6%E8%B7%AF%E4%BA%91%E4%B8%80%E4%BD%93%E5%8C%96%E7%A4%BA%E8%8C%83%E5%8C%BA%E9%AA%8C%E6%94%B6%E9%80%9A%E8%BF%87.md)<br>
+[面壁MiniCPM-Robot端侧1.5BVLA开源.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E9%9D%A2%E5%A3%81MiniCPM-Robot%E7%AB%AF%E4%BE%A71.5BVLA%E5%BC%80%E6%BA%90.md)<br>
+[国产光通信芯片实现800G量产.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%9B%BD%E4%BA%A7%E5%85%89%E9%80%9A%E4%BF%A1%E8%8A%AF%E7%89%87%E5%AE%9E%E7%8E%B0800G%E9%87%8F%E4%BA%A7.md)<br>
+[老旧小区外墙隔热翻新，根治夏日屋内暴晒闷热难题.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E8%80%81%E6%97%A7%E5%B0%8F%E5%8C%BA%E5%A4%96%E5%A2%99%E9%9A%94%E7%83%AD%E7%BF%BB%E6%96%B0%EF%BC%8C%E6%A0%B9%E6%B2%BB%E5%A4%8F%E6%97%A5%E5%B1%8B%E5%86%85%E6%9A%B4%E6%99%92%E9%97%B7%E7%83%AD%E9%9A%BE%E9%A2%98.md)<br>
+[腾讯Hy-Embodied三模型+Tairos开源.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E8%85%BE%E8%AE%AFHy-Embodied%E4%B8%89%E6%A8%A1%E5%9E%8B%2BTairos%E5%BC%80%E6%BA%90.md)<br>
+[低脂清热凉拌糖水走红，新式甜品味适配夏季养生.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E4%BD%8E%E8%84%82%E6%B8%85%E7%83%AD%E5%87%89%E6%8B%8C%E7%B3%96%E6%B0%B4%E8%B5%B0%E7%BA%A2%EF%BC%8C%E6%96%B0%E5%BC%8F%E7%94%9C%E5%93%81%E5%91%B3%E9%80%82%E9%85%8D%E5%A4%8F%E5%AD%A3%E5%85%BB%E7%94%9F.md)<br>
+
+[旺商聊](https://soft2.kittyyw.com/index/60603.html) | [变形金刚地球之战免登录版](https://soft2.kittyyw.com/index/60604.html) | [红布林](https://soft2.kittyyw.com/index/60605.html) | [去远方游戏](https://soft2.kittyyw.com/index/60606.html) | [皇帝成长计划2正版](https://soft2.kittyyw.com/index/60607.html) | [猎豹浏览器手机版](https://soft2.kittyyw.com/index/60608.html) | [myboy](https://soft2.kittyyw.com/index/60609.html) | [全民主公2正版](https://soft2.kittyyw.com/index/60610.html) | [加查+](https://soft2.kittyyw.com/index/60611.html) | [语音播报智读输入法](https://soft2.kittyyw.com/index/60612.html)
+
+来源依据：
+来源依据：[航空科普馆开放暑期夜间场，恒温室内体验飞行器模拟项目.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E8%88%AA%E7%A9%BA%E7%A7%91%E6%99%AE%E9%A6%86%E5%BC%80%E6%94%BE%E6%9A%91%E6%9C%9F%E5%A4%9C%E9%97%B4%E5%9C%BA%EF%BC%8C%E6%81%92%E6%B8%A9%E5%AE%A4%E5%86%85%E4%BD%93%E9%AA%8C%E9%A3%9E%E8%A1%8C%E5%99%A8%E6%A8%A1%E6%8B%9F%E9%A1%B9%E7%9B%AE.md)<br>
+[我国首条跨海高铁正式开通运营.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%88%91%E5%9B%BD%E9%A6%96%E6%9D%A1%E8%B7%A8%E6%B5%B7%E9%AB%98%E9%93%81%E6%AD%A3%E5%BC%8F%E5%BC%80%E9%80%9A%E8%BF%90%E8%90%A5.md)<br>
+[国产高端光刻胶用树脂实现吨级量产.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%9B%BD%E4%BA%A7%E9%AB%98%E7%AB%AF%E5%85%89%E5%88%BB%E8%83%B6%E7%94%A8%E6%A0%91%E8%84%82%E5%AE%9E%E7%8E%B0%E5%90%A8%E7%BA%A7%E9%87%8F%E4%BA%A7.md)<br>
+[社区开设夏日免费纳凉自习室，为学生打造安静避暑学习空间.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E7%A4%BE%E5%8C%BA%E5%BC%80%E8%AE%BE%E5%A4%8F%E6%97%A5%E5%85%8D%E8%B4%B9%E7%BA%B3%E5%87%89%E8%87%AA%E4%B9%A0%E5%AE%A4%EF%BC%8C%E4%B8%BA%E5%AD%A6%E7%94%9F%E6%89%93%E9%80%A0%E5%AE%89%E9%9D%99%E9%81%BF%E6%9A%91%E5%AD%A6%E4%B9%A0%E7%A9%BA%E9%97%B4.md)<br>
+[商汤SenseNovaU1Pro交付级多模态.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%95%86%E6%B1%A4SenseNovaU1Pro%E4%BA%A4%E4%BB%98%E7%BA%A7%E5%A4%9A%E6%A8%A1%E6%80%81.md)<br>
+[国产大飞机C919获欧洲航空安全局型号认可.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%9B%BD%E4%BA%A7%E5%A4%A7%E9%A3%9E%E6%9C%BAC919%E8%8E%B7%E6%AC%A7%E6%B4%B2%E8%88%AA%E7%A9%BA%E5%AE%89%E5%85%A8%E5%B1%80%E5%9E%8B%E5%8F%B7%E8%AE%A4%E5%8F%AF.md)<br>
+[壁仞NPO近封装光互连+分布式解耦超节点.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%A3%81%E4%BB%9ENPO%E8%BF%91%E5%B0%81%E8%A3%85%E5%85%89%E4%BA%92%E8%BF%9E%2B%E5%88%86%E5%B8%83%E5%BC%8F%E8%A7%A3%E8%80%A6%E8%B6%85%E8%8A%82%E7%82%B9.md)<br>
+[城市公园投放自动补水智能饮水站，自带冰水适配高温出行.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%9F%8E%E5%B8%82%E5%85%AC%E5%9B%AD%E6%8A%95%E6%94%BE%E8%87%AA%E5%8A%A8%E8%A1%A5%E6%B0%B4%E6%99%BA%E8%83%BD%E9%A5%AE%E6%B0%B4%E7%AB%99%EF%BC%8C%E8%87%AA%E5%B8%A6%E5%86%B0%E6%B0%B4%E9%80%82%E9%85%8D%E9%AB%98%E6%B8%A9%E5%87%BA%E8%A1%8C.md)<br>
+[电信AIFlow以算力换带宽.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E7%94%B5%E4%BF%A1AIFlow%E4%BB%A5%E7%AE%97%E5%8A%9B%E6%8D%A2%E5%B8%A6%E5%AE%BD.md)<br>
+[小鹏澳洲品牌日打包AI交通生态.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%B0%8F%E9%B9%8F%E6%BE%B3%E6%B4%B2%E5%93%81%E7%89%8C%E6%97%A5%E6%89%93%E5%8C%85AI%E4%BA%A4%E9%80%9A%E7%94%9F%E6%80%81.md)<br>
+
+[甜蜜女友2加](https://soft2.kittyyw.com/index/60613.html) | [你好我们还有场恋爱没谈](https://soft2.kittyyw.com/index/60614.html) | [mxplayerpro专业版](https://soft2.kittyyw.com/index/60615.html) | [我在江南开客栈折相思](https://soft2.kittyyw.com/index/60616.html) | [終焉逢瀬](https://soft2.kittyyw.com/index/60617.html) | [阿虎医考](https://soft2.kittyyw.com/index/60618.html) | [潜行特工](https://soft2.kittyyw.com/index/60619.html) | [柿播短剧](https://soft2.kittyyw.com/index/60620.html) | [长发飘飘](https://soft2.kittyyw.com/index/60621.html) | [最后的勇者正版](https://soft2.kittyyw.com/index/60622.html)
+
+来源依据：
+来源依据：[国产大飞机C919获欧洲航空安全局型号认可.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%9B%BD%E4%BA%A7%E5%A4%A7%E9%A3%9E%E6%9C%BAC919%E8%8E%B7%E6%AC%A7%E6%B4%B2%E8%88%AA%E7%A9%BA%E5%AE%89%E5%85%A8%E5%B1%80%E5%9E%8B%E5%8F%B7%E8%AE%A4%E5%8F%AF.md)<br>
+[壁仞NPO近封装光互连+分布式解耦超节点.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%A3%81%E4%BB%9ENPO%E8%BF%91%E5%B0%81%E8%A3%85%E5%85%89%E4%BA%92%E8%BF%9E%2B%E5%88%86%E5%B8%83%E5%BC%8F%E8%A7%A3%E8%80%A6%E8%B6%85%E8%8A%82%E7%82%B9.md)<br>
+[全国首个蓝碳生态系统修复技术规程出台.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%85%A8%E5%9B%BD%E9%A6%96%E4%B8%AA%E8%93%9D%E7%A2%B3%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D%E6%8A%80%E6%9C%AF%E8%A7%84%E7%A8%8B%E5%87%BA%E5%8F%B0.md)<br>
+[夏日低脂凉拌菜套餐走红，清爽解腻适配大众夏季饮食.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%A4%8F%E6%97%A5%E4%BD%8E%E8%84%82%E5%87%89%E6%8B%8C%E8%8F%9C%E5%A5%97%E9%A4%90%E8%B5%B0%E7%BA%A2%EF%BC%8C%E6%B8%85%E7%88%BD%E8%A7%A3%E8%85%BB%E9%80%82%E9%85%8D%E5%A4%A7%E4%BC%97%E5%A4%8F%E5%AD%A3%E9%A5%AE%E9%A3%9F.md)<br>
+[城市口袋公园全面提档，打造家门口的清凉纳凉微空间.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%9F%8E%E5%B8%82%E5%8F%A3%E8%A2%8B%E5%85%AC%E5%9B%AD%E5%85%A8%E9%9D%A2%E6%8F%90%E6%A1%A3%EF%BC%8C%E6%89%93%E9%80%A0%E5%AE%B6%E9%97%A8%E5%8F%A3%E7%9A%84%E6%B8%85%E5%87%89%E7%BA%B3%E5%87%89%E5%BE%AE%E7%A9%BA%E9%97%B4.md)<br>
+[地瓜机器人旭日S600量产朋友圈扩容.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%9C%B0%E7%93%9C%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%97%AD%E6%97%A5S600%E9%87%8F%E4%BA%A7%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%89%A9%E5%AE%B9.md)<br>
+[天数智芯天垓300通用GPU效率破70%.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%A4%A9%E6%95%B0%E6%99%BA%E8%8A%AF%E5%A4%A9%E5%9E%93300%E9%80%9A%E7%94%A8GPU%E6%95%88%E7%8E%87%E7%A0%B470%25.md)<br>
+[MiniMaxM3+H3多模态预览.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/MiniMaxM3%2BH3%E5%A4%9A%E6%A8%A1%E6%80%81%E9%A2%84%E8%A7%88.md)<br>
+[KimiK3发布三天停售新订阅、7月27开权重.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/KimiK3%E5%8F%91%E5%B8%83%E4%B8%89%E5%A4%A9%E5%81%9C%E5%94%AE%E6%96%B0%E8%AE%A2%E9%98%85%E3%80%817%E6%9C%8827%E5%BC%80%E6%9D%83%E9%87%8D.md)<br>
+[国产户外静音移动风扇上市，大范围送风适配露天场景.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%9B%BD%E4%BA%A7%E6%88%B7%E5%A4%96%E9%9D%99%E9%9F%B3%E7%A7%BB%E5%8A%A8%E9%A3%8E%E6%89%87%E4%B8%8A%E5%B8%82%EF%BC%8C%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%80%81%E9%A3%8E%E9%80%82%E9%85%8D%E9%9C%B2%E5%A4%A9%E5%9C%BA%E6%99%AF.md)<br>
+
+[黑阈特别贡献版](https://soft2.kittyyw.com/index/60623.html) | [小云tv优化版](https://soft2.kittyyw.com/index/60624.html) | [无痛单词背诵](https://soft2.kittyyw.com/index/60625.html) | [天猫手机版](https://soft2.kittyyw.com/index/60626.html) | [顺丰小哥正版](https://soft2.kittyyw.com/index/60627.html) | [若初文学](https://soft2.kittyyw.com/index/60628.html) | [腾讯START云游戏免费版](https://soft2.kittyyw.com/index/60629.html) | [幸福家庭模拟器游戏最新版](https://soft2.kittyyw.com/index/60630.html) | [安宁水疗馆正版](https://soft2.kittyyw.com/index/60631.html) | [日语翻译助手](https://soft2.kittyyw.com/index/60632.html)
+
+来源依据：
+来源依据：[山地农田修建简易引水沟渠，筑牢夏季抗旱保收防线.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%B1%B1%E5%9C%B0%E5%86%9C%E7%94%B0%E4%BF%AE%E5%BB%BA%E7%AE%80%E6%98%93%E5%BC%95%E6%B0%B4%E6%B2%9F%E6%B8%A0%EF%BC%8C%E7%AD%91%E7%89%A2%E5%A4%8F%E5%AD%A3%E6%8A%97%E6%97%B1%E4%BF%9D%E6%94%B6%E9%98%B2%E7%BA%BF.md)<br>
+[乡村文旅推出星空露营纳凉活动，山林晚风解锁夏日慢生活.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E4%B9%A1%E6%9D%91%E6%96%87%E6%97%85%E6%8E%A8%E5%87%BA%E6%98%9F%E7%A9%BA%E9%9C%B2%E8%90%A5%E7%BA%B3%E5%87%89%E6%B4%BB%E5%8A%A8%EF%BC%8C%E5%B1%B1%E6%9E%97%E6%99%9A%E9%A3%8E%E8%A7%A3%E9%94%81%E5%A4%8F%E6%97%A5%E6%85%A2%E7%94%9F%E6%B4%BB.md)<br>
+[绿源×有鹿10万套关节+1万整机.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E7%BB%BF%E6%BA%90%C3%97%E6%9C%89%E9%B9%BF10%E4%B8%87%E5%A5%97%E5%85%B3%E8%8A%82%2B1%E4%B8%87%E6%95%B4%E6%9C%BA.md)<br>
+[国产高端轴承钢G20CrNi2Mo实现高铁轴箱应用.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%9B%BD%E4%BA%A7%E9%AB%98%E7%AB%AF%E8%BD%B4%E6%89%BF%E9%92%A2G20CrNi2Mo%E5%AE%9E%E7%8E%B0%E9%AB%98%E9%93%81%E8%BD%B4%E7%AE%B1%E5%BA%94%E7%94%A8.md)<br>
+[国产折叠防晒露营天幕升级隔热层，夏日户外避暑神器热销.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%9B%BD%E4%BA%A7%E6%8A%98%E5%8F%A0%E9%98%B2%E6%99%92%E9%9C%B2%E8%90%A5%E5%A4%A9%E5%B9%95%E5%8D%87%E7%BA%A7%E9%9A%94%E7%83%AD%E5%B1%82%EF%BC%8C%E5%A4%8F%E6%97%A5%E6%88%B7%E5%A4%96%E9%81%BF%E6%9A%91%E7%A5%9E%E5%99%A8%E7%83%AD%E9%94%80.md)<br>
+[可折叠户外大容量保温餐箱上新，野餐露营存放冷热食物.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%8F%AF%E6%8A%98%E5%8F%A0%E6%88%B7%E5%A4%96%E5%A4%A7%E5%AE%B9%E9%87%8F%E4%BF%9D%E6%B8%A9%E9%A4%90%E7%AE%B1%E4%B8%8A%E6%96%B0%EF%BC%8C%E9%87%8E%E9%A4%90%E9%9C%B2%E8%90%A5%E5%AD%98%E6%94%BE%E5%86%B7%E7%83%AD%E9%A3%9F%E7%89%A9.md)<br>
+[平头哥真武M890+磐久AL128镇馆.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%B9%B3%E5%A4%B4%E5%93%A5%E7%9C%9F%E6%AD%A6M890%2B%E7%A3%90%E4%B9%85AL128%E9%95%87%E9%A6%86.md)<br>
+[生鲜超市推出夏日食材保鲜专区，指导市民科学储存食材.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E7%94%9F%E9%B2%9C%E8%B6%85%E5%B8%82%E6%8E%A8%E5%87%BA%E5%A4%8F%E6%97%A5%E9%A3%9F%E6%9D%90%E4%BF%9D%E9%B2%9C%E4%B8%93%E5%8C%BA%EF%BC%8C%E6%8C%87%E5%AF%BC%E5%B8%82%E6%B0%91%E7%A7%91%E5%AD%A6%E5%82%A8%E5%AD%98%E9%A3%9F%E6%9D%90.md)<br>
+[沿海城市推出海上轻徒步观光航线，近海纳凉解锁夏日新玩法.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%B2%BF%E6%B5%B7%E5%9F%8E%E5%B8%82%E6%8E%A8%E5%87%BA%E6%B5%B7%E4%B8%8A%E8%BD%BB%E5%BE%92%E6%AD%A5%E8%A7%82%E5%85%89%E8%88%AA%E7%BA%BF%EF%BC%8C%E8%BF%91%E6%B5%B7%E7%BA%B3%E5%87%89%E8%A7%A3%E9%94%81%E5%A4%8F%E6%97%A5%E6%96%B0%E7%8E%A9%E6%B3%95.md)<br>
+[T1200碳纤维百吨级与陶铝新材料.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/T1200%E7%A2%B3%E7%BA%A4%E7%BB%B4%E7%99%BE%E5%90%A8%E7%BA%A7%E4%B8%8E%E9%99%B6%E9%93%9D%E6%96%B0%E6%9D%90%E6%96%99.md)<br>
+
+
+---
+
+**来源参考：**
+- [御风E40H广西洪灾实战投送.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%BE%A1%E9%A3%8EE40H%E5%B9%BF%E8%A5%BF%E6%B4%AA%E7%81%BE%E5%AE%9E%E6%88%98%E6%8A%95%E9%80%81.md)
+- [AMDEPYCVenice256核+Helios机架.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/AMDEPYCVenice256%E6%A0%B8%2BHelios%E6%9C%BA%E6%9E%B6.md)
+- [我国首套国产质子治疗装置通过国家医疗器械注册审批.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%88%91%E5%9B%BD%E9%A6%96%E5%A5%97%E5%9B%BD%E4%BA%A7%E8%B4%A8%E5%AD%90%E6%B2%BB%E7%96%97%E8%A3%85%E7%BD%AE%E9%80%9A%E8%BF%87%E5%9B%BD%E5%AE%B6%E5%8C%BB%E7%96%97%E5%99%A8%E6%A2%B0%E6%B3%A8%E5%86%8C%E5%AE%A1%E6%89%B9.md)
+- [我国成功研制深海油气水下生产系统.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E7%A0%94%E5%88%B6%E6%B7%B1%E6%B5%B7%E6%B2%B9%E6%B0%94%E6%B0%B4%E4%B8%8B%E7%94%9F%E4%BA%A7%E7%B3%BB%E7%BB%9F.md)
+- [国产智能温控快递柜升级，避免高温包裹暴晒变质.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%9B%BD%E4%BA%A7%E6%99%BA%E8%83%BD%E6%B8%A9%E6%8E%A7%E5%BF%AB%E9%80%92%E6%9F%9C%E5%8D%87%E7%BA%A7%EF%BC%8C%E9%81%BF%E5%85%8D%E9%AB%98%E6%B8%A9%E5%8C%85%E8%A3%B9%E6%9A%B4%E6%99%92%E5%8F%98%E8%B4%A8.md)
+- [草本冷萃茶饮线下门店普及，零添加蔗糖适配夏季控糖人群.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E8%8D%89%E6%9C%AC%E5%86%B7%E8%90%83%E8%8C%B6%E9%A5%AE%E7%BA%BF%E4%B8%8B%E9%97%A8%E5%BA%97%E6%99%AE%E5%8F%8A%EF%BC%8C%E9%9B%B6%E6%B7%BB%E5%8A%A0%E8%94%97%E7%B3%96%E9%80%82%E9%85%8D%E5%A4%8F%E5%AD%A3%E6%8E%A7%E7%B3%96%E4%BA%BA%E7%BE%A4.md)
+- [国产碳纤维T1100级实现实验室突破.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%9B%BD%E4%BA%A7%E7%A2%B3%E7%BA%A4%E7%BB%B4T1100%E7%BA%A7%E5%AE%9E%E7%8E%B0%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%AA%81%E7%A0%B4.md)
+- [曦智2000卡光交换超节点.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%9B%A6%E6%99%BA2000%E5%8D%A1%E5%85%89%E4%BA%A4%E6%8D%A2%E8%B6%85%E8%8A%82%E7%82%B9.md)
+- [夏日亲子清凉手工课堂开班，丰富孩童暑期居家生活.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E5%A4%8F%E6%97%A5%E4%BA%B2%E5%AD%90%E6%B8%85%E5%87%89%E6%89%8B%E5%B7%A5%E8%AF%BE%E5%A0%82%E5%BC%80%E7%8F%AD%EF%BC%8C%E4%B8%B0%E5%AF%8C%E5%AD%A9%E7%AB%A5%E6%9A%91%E6%9C%9F%E5%B1%85%E5%AE%B6%E7%94%9F%E6%B4%BB.md)
+- [沐曦曦景S600超节点+曦索X300科学GPU.md](https://github.com/haoccc123321-gif/daily-news-zt14/blob/main/%E6%B2%90%E6%9B%A6%E6%9B%A6%E6%99%AFS600%E8%B6%85%E8%8A%82%E7%82%B9%2B%E6%9B%A6%E7%B4%A2X300%E7%A7%91%E5%AD%A6GPU.md)
